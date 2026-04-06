@@ -6,12 +6,12 @@ We actively patch only the most recent minor release. Older versions receive fix
 
 ## Reporting a Vulnerability
 
-Email ospo@sqz.ac.cn with:
+Report with an issue with the following items:
 
 - A short summary of the issue
 - Steps to reproduce or a proof of concept
 - Any logs, stack traces, or screenshots that might help us understand the problem
 
-We acknowledge reports within 48 hours and aim to release a fix or mitigation within 30 days. While we work on a resolution, please keep the details private.
+We acknowledge reports within 48 hours and aim to release a fix or mitigation within 30 days. 
 
 Thank you for helping us keep our users safe.
